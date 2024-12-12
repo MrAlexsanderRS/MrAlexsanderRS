@@ -2,7 +2,7 @@
 
 - 💻 **Atualmente**: Trabalhando como Front-End Developer
 - 📖 **Estudos**: Estudando na Alura
-- 😌 **Pronome**: Ele/Dele
+- 😌 **Pronome**: Ele / Dele
 
 ### Linguagens e Tecnologias
 
