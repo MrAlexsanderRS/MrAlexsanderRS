@@ -1,5 +1,5 @@
 <br>
-### 👨‍💻 Sobre:
+👨‍💻 Sobre:
 
 - Atualmente trabalhando como **Front-End Developer**, construindo interfaces.
 - Estudando e aprimorando minhas habilidades em **React**, **JavaScript** na Alura.
@@ -25,9 +25,7 @@
 
 
 <br>
-### 🔭 Status do Desenvolvimento (Projeto Pessoal):
+🔭 Status do Desenvolvimento (Projeto Pessoal):
 
-Atualmente trabalhando em um [Nome do Projeto] utilizando React e Tailwind CSS. Focado em implementar a funcionalidade de [Funcionalidade Principal]. Próximo passo: integrar com a API de [Nome da API].
-<br>
-
+Atualmente trabalho utilizando React e CSS. Focado em ferramentas voltado para o front...
 ---
