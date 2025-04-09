@@ -1,5 +1,17 @@
 <br>
 
+### 👨‍💻 Sobre:
+
+- Atualmente trabalhando como **Front-End Developer**, construindo interfaces de usuário responsivas e interativas.
+- Estudando e aprimorando minhas habilidades em **React**, **JavaScript** na Alura.
+- Aberto a colaborações em projetos Front-End desafiadoras.
+- Curioso sobre as últimas tendências em desenvolvimento web e UI/UX.
+- Pronomes: Ele / Dele
+
+<br>
+
+<br>
+
 <div align="left">
   <a href="https://www.instagram.com/alexsander__martins/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="30"/>
@@ -11,18 +23,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
 </div>
-
-<br>
-
-### 👨‍💻 Sobre Mim:
-
-- 🔭 Atualmente trabalhando como **Front-End Developer**, construindo interfaces de usuário responsivas e interativas.
-- 🌱 Estudando e aprimorando minhas habilidades em **React**, **JavaScript** e **TypeScript** na Alura.
-- 💬 Aberto a colaborações em projetos Front-End desafiadoras.
-- ⚡ Curioso sobre as últimas tendências em desenvolvimento web e UI/UX.
-- 🗣️ Pronomes: Ele / Dele
-
-<br>
 
 ### 🛠️ Tecnologias:
 
