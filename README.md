@@ -19,12 +19,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
 </div>
 <br>
-
-
-
-
-<br>
-🔭 Status do Desenvolvimento (Projeto Pessoal):
-
-Atualmente trabalho utilizando React e CSS. Focado em ferramentas voltado para o front...
----
