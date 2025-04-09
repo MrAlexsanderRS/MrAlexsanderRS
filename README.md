@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/alexsander__martins/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
 ### 🛠️ Tecnologias:
 </div>
 <div align="center">
