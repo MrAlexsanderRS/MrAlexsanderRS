@@ -6,7 +6,7 @@
 - Aberto a colaborações em projetos Front-End desafiadoras.
 - Curioso sobre as últimas tendências em desenvolvimento web e UI/UX.
 - Pronomes: Ele / Dele
-</br>
+<br>
 
 ## 📊 **GitHub Stats**  
 <div style="display: flex; gap: 5px; align-items: center;">
