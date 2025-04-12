@@ -1,28 +1,6 @@
 
 
-<style>
-  .neon-title {
-    color: #fff;
-    text-shadow:
-      0 0 5px #0ff,
-      0 0 10px #0ff,
-      0 0 20px #0ff,
-      0 0 40px #0ff,
-      0 0 80px #0ff,
-      0 0 90px #0ff;
-  }
 
-  .neon-text {
-    color: #f4f4f4;
-    text-shadow:
-      0 0 3px #a8f0fc,
-      0 0 7px #a8f0fc;
-  }
-
-  .section {
-    margin-bottom: 20px;
-  }
-</style>
 
 <div class="section">
   <h2 class="neon-title">👨‍💻 Sobre</h2>
