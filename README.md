@@ -1,6 +1,5 @@
+## 👨‍💻 **Sobre**  
 <br>
-👨‍💻 Sobre:
-
 - Atualmente trabalhando como **Front-End Developer**, construindo interfaces.
 - Estudando e aprimorando minhas habilidades em **React**, **JavaScript** na Alura.
 - Aberto a colaborações em projetos Front-End desafiadoras.
