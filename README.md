@@ -9,8 +9,8 @@
 <br>
 
 ## 📊 **GitHub Stats**  
-![Bekn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeknYTprogamador&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeknYTprogamador&layout=compact&theme=tokyonight)
+![Bekn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight)
 
 ### 🛠️ Tecnologias:
 
