@@ -9,9 +9,9 @@
 <br>
 
 ## 📊 **GitHub Stats**  
-<div style="display: flex; gap: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight" alt="Bekn's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Top Langs">
+<div style="display: flex; gap: 5px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight" alt="Bekn's GitHub Stats" style="width: 200px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 200px; height: auto;">
 </div>
 
 ### 🛠️ Tecnologias:
