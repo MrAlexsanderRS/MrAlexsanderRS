@@ -9,9 +9,9 @@
 <br>
 
 ## 📊 **GitHub Stats**  
-<div align="left">![Bekn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight)  
+![Bekn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight)
-</div>
+
 
 ### 🛠️ Tecnologias:
 
