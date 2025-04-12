@@ -11,7 +11,7 @@
 ## 📊 **GitHub Stats**  
 <div style="display: flex; gap: 5px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight" alt="Bekn's GitHub Stats" style="width: 400px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 300px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 350px; height: auto;">
 </div>
 
 ### 🛠️ Tecnologias:
