@@ -23,11 +23,6 @@
 
 ## 📊 **GitHub Stats**  
 <div style="display: flex; gap: 5px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight" alt="Bekn's GitHub Stats" style="width: 400px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 358px; height: auto;">
-</div>
-
-<div style="display: flex; gap: 5px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=MrAlexsanderRS&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Bekn" style="width: 400px; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexsanderRS&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" style="width: 358px; height: auto;">
 </div>
